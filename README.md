@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=200&section=header&text=Collins%20Kimanzi&fontSize=52&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=Mwandikwa%20%7C%20Builder.%20Breaker.%20Gamer.&descAlignY=55&descSize=16&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a1200&height=200&section=header&text=Collins%20Kimanzi&fontSize=52&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=root%40kimanzi%3A~%24%20.%2Fprofile.sh&descAlignY=56&descSize=16&descColor=33bb44" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Android+App+Developer;Red+Team+Security+Apprentice;CTF+Player+%26+Ethical+Hacker+in+Training;CodeHub+Founder+%26+Community+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=620&lines=%24+Full-Stack+Web+Developer;%24+Android+App+Developer;%24+Red+Team+Security+Apprentice;%24+CTF+Player+%26+Ethical+Hacker;%24+CodeHub+Founder+%26+Builder)](https://git.io/typing-svg)
 
 </div>
 
@@ -176,14 +176,6 @@ ask_me_about:
 <img src="https://cdn2.steamgriddb.com/thumb/9cd0f2a7c17876d6721916f09bce496c.jpg" height="160" title="007: First Light" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn2.steamgriddb.com/thumb/4b72d38f9245a973e84a625798521a67.jpg" height="160" title="Ghost of Yotei" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2000950/library_600x900_2x.jpg" height="160" title="COD: Modern Warfare 2019" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_portrait.0_q101pt77mgu.jpg" height="160" title="GTA VI" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900_2x.jpg" height="160" title="Red Dead Redemption 2" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900_2x.jpg" height="160" title="Cyberpunk 2077" />
 </marquee>
 </div>
 
@@ -210,6 +202,6 @@ ask_me_about:
 
 [![](https://visitcount.itsvg.in/api?id=Kimanzi-Collins&icon=9&color=9)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a1200&height=120&section=footer" width="100%"/>
 
 </div>
